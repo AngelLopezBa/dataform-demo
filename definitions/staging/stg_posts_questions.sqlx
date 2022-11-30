@@ -16,4 +16,4 @@ select
  tags
 from
  ${ref("posts_questions")}
-where creation_date > timestamp("2020-12-31")
+where creation_date > timestamp("2021-12-31")
