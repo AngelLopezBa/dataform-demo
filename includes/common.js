@@ -1,6 +1,7 @@
 /*
 * The function ageBucket() takes as input the name of the age field and returns a CASE statement that maps ages age buckets
 * You can learn more about functions on https://cloud.google.com/dataform/docs/reuse-code-includes
+* Update 03/11/2023
 */
  
 function ageBucket(age) {
